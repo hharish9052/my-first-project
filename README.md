@@ -15,5 +15,4 @@ Artificial Intelligence, and 3D design.
 To build useful projects and improve my software development skills.
 
 ---
-Thanks for visiting my repository!# my-first-project
-My first GitHub project as an MCA student.
+Thanks for visiting my repository!
